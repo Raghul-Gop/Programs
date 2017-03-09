@@ -7,7 +7,7 @@ public class PrintValues {
 		for(int j=1;j<=100;j++){
 			z=i*j;
 			System.out.println(z);
-			Thread.sleep(100);
+			Thread.sleep(50);
 		}
 		
 	}
